@@ -35,9 +35,9 @@
     <properties>
         <java.version>22</java.version>
         <spring-cloud.version>2023.0.3</spring-cloud.version>
-        <jkube.generator.name>ahmd66699/aqarati-${project.name}:${project.version}</jkube.generator.name>
-
+        <jkube.generator.name>ahmd66699/${project.name}:${project.version}</jkube.generator.name>
     </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
